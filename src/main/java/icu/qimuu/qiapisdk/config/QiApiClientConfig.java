@@ -18,7 +18,7 @@ import org.springframework.context.annotation.Configuration;
  */
 @Data
 @Configuration
-@ConfigurationProperties("qi.api.client")
+@ConfigurationProperties("op.api.client")
 @ComponentScan
 public class QiApiClientConfig {
     /**
