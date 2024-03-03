@@ -36,7 +36,7 @@ public abstract class BaseService implements ApiService {
     /**
      * 网关HOST
      */
-    private String gatewayHost = "https://gateway.qimuu.icu/api";
+    private String gatewayHost = "";
 
     /**
      * 检查配置

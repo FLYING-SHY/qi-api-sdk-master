@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <name>op-api-sdk</name>
-    <groupId>io.github.flying-hua</groupId>
+    <groupId>io.github.flying-shy</groupId>
     <artifactId>op-api-sdk</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
 
     <description>OnePiece 接口开放平台开发者工具包</description>
     <properties>
@@ -69,9 +69,7 @@
                         </goals>
                     </execution>
                 </executions>
-                <configuration>
-                    <skip>true</skip>
-                </configuration>
+
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
