@@ -36,7 +36,7 @@ public abstract class BaseService implements ApiService {
     /**
      * 网关HOST
      */
-    private String gatewayHost = "";
+    private String gatewayHost = "http://8.137.49.64:8090/api";
 
     /**
      * 检查配置
